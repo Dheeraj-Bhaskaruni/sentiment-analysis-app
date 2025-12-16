@@ -15,3 +15,7 @@ pinned: false
 This is a simple Sentiment Analysis application built with [Streamlit](https://streamlit.io) and [Hugging Face Transformers](https://huggingface.co/docs/transformers).
 
 It uses the default `distilbert-base-uncased-finetuned-sst-2-english` model to classify text as **POSITIVE** or **NEGATIVE**.
+
+
+
+Deployed : https://huggingface.co/spaces/Dheeraj-13/Sentiment_Analysis_App
