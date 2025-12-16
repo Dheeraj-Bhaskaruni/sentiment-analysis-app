@@ -3,8 +3,9 @@ title: Sentiment Analysis App
 emoji: 🤖
 colorFrom: blue
 colorTo: indigo
-sdk: streamlit
-sdk_version: 1.28.0
+sdk: docker
+# sdk_version: 1.28.0 # Not needed for docker
+app_port: 7860
 app_file: app.py
 pinned: false
 ---
